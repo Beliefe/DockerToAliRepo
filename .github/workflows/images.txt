@@ -1,0 +1,4 @@
+redis:latest
+nginx:latest
+mysql:latest
+nacos/nacos-server:latest
