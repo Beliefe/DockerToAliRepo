@@ -1,7 +1,7 @@
 redis:latest
 #nginx:1.27.2
 mysql:latest
-nacos/nacos-server:v2.4.3
+#nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
 #ghcr.io/sozercan/llama3.1:8b
